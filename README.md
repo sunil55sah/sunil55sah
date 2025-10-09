@@ -1,7 +1,7 @@
 ![logo](https://github.com/sunil55sah/sunil55sah/blob/main/programming-background-collage.jpg)
 
 <h1 align="center">Hi 👋, I'm Sunil Kumar Sah</h1>
-<h3 align="center">A passionate software Engineer from Nepal.</h3>
+<h3 align="center">A passionate software Engineer.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif?cid=790b7611rs7ehiume1k770z04jnkh93rx60t84i3n2wdq4rh&rid=200.gif&ct=g">
 
@@ -17,6 +17,17 @@
 - ✨ I believe in: **Discipline, Ethics, Humanity, and Giving Back to Society**
 - 📫 How to reach me **sunildevhub@gmail.com**
 - ⚡ Fun fact **I am funny.😎😳🕶🤏**
+# Internship Certificates
+
+## 🎓 Tap Academy – Full Stack Java Developer Intern
+**Duration:** Aug 2024 – Jan 2025
+**Description:** Worked on Java, JSP, Servlets, JDBC, MySQL, and frontend integration projects such as *FoodVibe* and *Student Enrollment System*.
+
+# My Certificates
+
+## 🏅 Tap Academy – Full Stack Java Developer Internship Certificate  
+[View Certificate](https://drive.google.com/file/d/1lXZvBQYT-JNQeinDTBh-IPs2eDzsyeAG/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
